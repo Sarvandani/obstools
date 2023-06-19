@@ -5,7 +5,7 @@ Despite its user-friendly nature, obstools employs sophisticated calculations an
 
 ------------------
 Common formats of OBS data are SAC, SEGY and MSEED. Here we show how we can read and write OBS data:
-data can be found in the [link]. 
+data can be found in the [link](https://github.com/Sarvandani?tab=repositories). 
 ```python
 ## reading sac file
 from obspy import read
