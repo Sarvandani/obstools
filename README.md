@@ -4,8 +4,9 @@ Obstools is an extensive Python package that serves as a comprehensive toolbox f
 Despite its user-friendly nature, obstools employs sophisticated calculations and methodologies to ensure highly accurate results. By incorporating intricate techniques, this toolbox ensures the precision and reliability of the processed data.
 
 ------------------
+Data can be found in the [link](https://github.com/ekaestle/amb_noise_tools/tree/master/preprocessed_data). 
 Common formats of OBS data are SAC, SEGY and MSEED. Here we show how we can read and write OBS data:
-data can be found in the [link](https://github.com/ekaestle/amb_noise_tools/tree/master/preprocessed_data). 
+
 ```python
 ## reading sac file
 from obspy import read
